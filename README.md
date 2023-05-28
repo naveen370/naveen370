@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Naveen 
 - 👀 I’m interested in front end developing
 - 🌱 I’m currently learning cyber security tools
-- 💞️ I’m looking to collaborate on cyber security companies.
 - 📫 Reach me at - naveennavee370@gmail.com
 
 <!---
